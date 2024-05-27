@@ -9,19 +9,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Piyush132000/backend-practice.git"
+    "url": "git+https://github.com/PiyushAgrawal1243/backend-practice.git"
   },
-  "author": "Piyush Agarwal",
+  "author": "Piyush Agrawal",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Piyush132000/backend-practice/issues"
+    "url": "https://github.com/PiyushAgrawal1243/backend-practice/issues"
   },
-  "homepage": "https://github.com/Piyush132000/backend-practice#readme",
+  "homepage": "https://github.com/PiyushAgrawal1243/backend-practice#readme",
   "devDependencies": {
-    "nodemon": "^2.0.19"
+    "nodemon": "^3.1.0"
   },
   "dependencies": {
-    "body-parser": "^1.20.0",
-    "express": "^4.18.1"
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mysql2": "^3.9.7"
   }
 }
